@@ -1,5 +1,5 @@
-### Random Password Generator
-# This is a simple JavaScript program that generates random passwords based on user-defined criteria such as length and character types. The program runs in a web browser and allows users to customize their passwords according to their security needs.
+# Random Password Generator
+ This is a simple JavaScript program that generates random passwords based on user-defined criteria such as length and character types. The program runs in a web browser and allows users to customize their passwords according to their security needs.
 
 ## How to Use
 Click on the "Generate Password" button to initiate the password generation process.
